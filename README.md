@@ -1,4 +1,4 @@
-# Crack Detection in Earthen 3D-Printed Structures (`crack-detection-earthen-3dp`)
+# 3DPE-Crack22: Crack Detection in Earthen 3D-Printing
 
 [![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Hugging Face](https://img.shields.io/badge/🤗-Dataset-yellow)](https://huggingface.co/datasets/henribenz/crack-detection-earthen-3dp)
