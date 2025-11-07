@@ -14,9 +14,10 @@ It focuses on **automated crack detection** in **earthen 3D-printed structures**
 - Quality control and monitoring of earthen 3D-printing processes.
 - Computer vision approaches for **defect detection** and an increase in overall process control and quality.
 
----
+Annotated dataset for crack detection in earthen 3D printing.
+**Dataset hosted on Hugging Face:** [[https://huggingface.co/datasets/<your-username>/E3P-Crack](https://huggingface.co/datasets/ICoM-RWTH/3DPE-Crack22)
 
-## Dataset Structure
+---
 
 ### **Data Format**
 - **Images**: High-resolution RGB images of 3D-printed earthen walls.
